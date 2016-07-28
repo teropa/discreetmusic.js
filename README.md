@@ -3,7 +3,7 @@
 A JavaScript edition of [Discreet Music](https://en.wikipedia.org/wiki/Discreet_Music)
 by Brian Eno.
 
-Powered by Tonejs/Tone.js
+Powered by [Tone.js](https://github.com/Tonejs/Tone.js)
 
 ## Usage
 
